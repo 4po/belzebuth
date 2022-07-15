@@ -1,3 +1,5 @@
+/// CREATION DU PACKAGE.JSON ( NON FONCTIONEL //
+
 ﻿const Discord = require("discord.js");
 const client = new Discord.Client();
 const Enmap = require("enmap");
